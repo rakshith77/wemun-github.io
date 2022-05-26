@@ -1,4 +1,4 @@
-var audio = new Audio('assets/sentmessage.mp3');
+var audio = new Audio('sentmessage.mp3');
 var contactString = "<div  </a>Click here <a target='_blank' href='Course_Registration_Form.html'> <div class='socialItem'> <img class='socialItemI' src='images/telegram.svg' alt=''></div> </div>";
 var resumeString = "<img src='tum.png  ' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='pdf.png'><label>WeMun Brochure.pdf</label></div><a href='https://drive.google.com/file/d/1V8lyqLhx-RgzHvTVE42zAneN42r7Cidq/view?usp=sharing' download='brochure'><img class='download' src='downloadIcon.svg'></a></div>";
 
