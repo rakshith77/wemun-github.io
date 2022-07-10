@@ -61,10 +61,10 @@
 	body, input, select, textarea {
 		color: rgb(0, 0, 0);
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 15pt;
+		font-size: 5pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
-		line-height: 1.75em;
+		line-height: 1.25em;
 	}
 
 	body {
@@ -1049,7 +1049,7 @@
 }
 .container {
 	position: absolute;
-	top: 100%;
+	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -1117,7 +1117,7 @@
 footer {
 	position: absolute;
 	
-	height: 30px;
+	height: 100px;
 	width: 100%;
 	left: 0;
 	bottom: 0;
